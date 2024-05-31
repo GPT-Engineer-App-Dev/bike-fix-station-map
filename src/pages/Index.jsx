@@ -16,8 +16,6 @@ const bikePumpIcon = new Icon({
 // Sample data for bike pump stations in Stockholm
 const bikePumpStations = [
   { id: 1, name: 'Pump Station 1', position: [59.3293, 18.0686] },
-  { id: 2, name: 'Pump Station 2', position: [59.3326, 18.0649] },
-  { id: 3, name: 'Pump Station 3', position: [59.3340, 18.0700] },
   // Add more stations as needed
 ];
 
